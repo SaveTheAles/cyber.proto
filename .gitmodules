@@ -1,3 +1,7 @@
 [submodule "terrad"]
 	path = terrad
 	url = https://github.com/terra-money/core
+
+[submodule "go-cyber"]
+	path = go-cyber
+	url = https://github.com/cybercongress/go-cyber
