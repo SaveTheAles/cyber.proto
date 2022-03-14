@@ -1,1 +1,1 @@
-# python implementation for terra.proto
+# python implementation for cyber.proto

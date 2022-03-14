@@ -3,3 +3,7 @@ node_modules
 # IDEs
 .vscode/
 .idea/
+python/bin/
+python/lib/
+python/include/
+python/dist
