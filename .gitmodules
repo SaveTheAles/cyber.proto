@@ -5,3 +5,7 @@
 [submodule "go-cyber"]
 	path = go-cyber
 	url = https://github.com/cybercongress/go-cyber
+
+[submodule "liquidity"]
+	path = liquidity
+	url = https://github.com/tendermint/liquidity
