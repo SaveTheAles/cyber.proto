@@ -8,3 +8,4 @@ python/lib/
 python/include/
 python/dist
 pyvenv.cfg
+.DS_Store
