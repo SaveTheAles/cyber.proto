@@ -7,3 +7,4 @@ python/bin/
 python/lib/
 python/include/
 python/dist
+pyvenv.cfg
